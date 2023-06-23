@@ -58,7 +58,7 @@ st.write("You can get them Home Depot.  Here are the prices and links to each:")
 #set an array variable that will hold the sum of the array product values
 total = 0
 
-# Create a loop that qu
+# Create a loop that will iterate through the array and call the serpapi api for each item in the array
 for i in range(len(arr)):
     st.write(arr[i])
     params = {
