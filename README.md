@@ -22,7 +22,7 @@ os.environ['SERPAPI_API_KEY'] = 'YOUR_SERPAPI_API_KEY'
 You can start the application by running this command in your terminal:
 
 ```bash
-streamlit run twotimes.py
+streamlit run shopping.py
 ```
 
 This will open a web interface in your browser where you can input your project's details.
